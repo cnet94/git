@@ -1,2 +1,3 @@
 Test2
 From user1
+Critical bug fix
